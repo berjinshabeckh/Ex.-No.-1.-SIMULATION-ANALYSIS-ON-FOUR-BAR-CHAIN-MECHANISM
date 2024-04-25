@@ -53,10 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/Reebak04/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118364993/66f1e2f4-e46d-423a-a6b5-7bb9c272695f)
 
-
-### Name:
-### Register Number: 
+### Name: Hariharan A
+### Register Number: 212222100012
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
